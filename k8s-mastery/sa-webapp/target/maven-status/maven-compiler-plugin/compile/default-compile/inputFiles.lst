@@ -1,0 +1,4 @@
+/app/src/main/java/com/sa/web/SentimentController.java
+/app/src/main/java/com/sa/web/dto/SentimentDto.java
+/app/src/main/java/com/sa/web/dto/SentenceDto.java
+/app/src/main/java/com/sa/web/SentimentAnalysisWebApp.java
